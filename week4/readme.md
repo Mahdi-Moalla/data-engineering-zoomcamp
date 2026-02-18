@@ -1,3 +1,6 @@
+Here are the SQL queries for Q4 and Q5.
+I also added the stg_fhv_tripdata.sql for question 6.
+
 # Q4
 
 ```SQL

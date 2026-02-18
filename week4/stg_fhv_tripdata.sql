@@ -11,7 +11,7 @@ renamed as (
         cast(DOlocationID as integer) as dropoff_location_id,
 
         -- timestamps
-        cast(pickup_datetime as timestamp) as pickup_datetime,  -- lpep = Licensed Passenger Enhancement Program (green taxis)
+        cast(pickup_datetime as timestamp) as pickup_datetime,
         cast(dropOff_datetime as timestamp) as dropOff_datetime,
 
         -- trip info
